@@ -17,10 +17,10 @@ times.addEventListener('click', function(){
 })
 
 // FORM SUBMISSION
-const contactForm = document.querySelector('.contact-form')
-const sendBtn = document.querySelector('#send-btn')
+// const contactForm = document.querySelector('.contact-form')
+// const sendBtn = document.querySelector('#send-btn')
 
-contactForm.addEventListener('submit', function(e){
-    e.preventDefault();
-    alert('hi')
-})
+// contactForm.addEventListener('submit', function(e){
+//     e.preventDefault();
+//     alert('hi')
+// })
